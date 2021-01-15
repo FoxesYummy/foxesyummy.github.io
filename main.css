@@ -1,8 +1,9 @@
 html {
-  font-family: Lato;
+  font-family: Calibri;
+  background: gray;
 }
 
 body {
-  margin-left: 20%;
-  margin-right: 20%;
+  margin: 5% 20%;
+  background: white;
 }
